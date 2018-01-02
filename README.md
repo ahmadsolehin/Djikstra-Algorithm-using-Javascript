@@ -1,3 +1,6 @@
 # Djikstra-Algorithm-using-Javascript
 
-# code manipulated by ahmad solehin
+- djikstra is known as to find the shortest path. 
+- using javascript
+- easier to read rather than other language
+- code manipulated by ahmad solehin
